@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+    background-image: url(../images/myWeb.png);
+    background-size: 5%;
+    background-repeat: no-repeat;
+}
+.img{
+    height: 90px;
+}
+.menu-ber{
+    display: flex;
+    list-style: none;
+}
+.menu-ber li{
+    padding: 0px 20px;
+}
